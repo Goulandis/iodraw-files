@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="535" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QGyJ87dSnk1hbFhv1uRZ-3" value="窗口化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="620" width="60" height="30" as="geometry" />
+          <mxGeometry x="270" y="620" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QGyJ87dSnk1hbFhv1uRZ-4" value="是否是最高分辨率？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="520" width="126" height="85" as="geometry" />
