@@ -11,7 +11,7 @@
           <mxGeometry x="310" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QGyJ87dSnk1hbFhv1uRZ-4" value="是否是最高分辨率？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="525" width="80" height="80" as="geometry" />
+          <mxGeometry x="414" y="550" width="126" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
