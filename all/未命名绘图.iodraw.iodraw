@@ -29,7 +29,7 @@
           <mxGeometry x="640" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QGyJ87dSnk1hbFhv1uRZ-11" value="是否失去焦点？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="585" width="126" height="85" as="geometry" />
+          <mxGeometry x="827" y="617.5" width="126" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
