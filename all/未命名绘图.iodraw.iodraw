@@ -28,6 +28,9 @@
         <mxCell id="QGyJ87dSnk1hbFhv1uRZ-8" value="独占全屏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QGyJ87dSnk1hbFhv1uRZ-11" value="是否是最高分辨率？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="532.5" width="126" height="85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
